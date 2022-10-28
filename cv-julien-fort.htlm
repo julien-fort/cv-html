@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Curriculum vitae Fort</title>
+    <link href="cv-julien-fort.css" rel="stylesheet" type="text/css">
+   
+      
+</head>
+<body>
+    <head>
+        <u><h1>Curriculum Vitae FORT</h1></u>
+        <nav class="menu deroulant">
+          <ul>
+            <li><a href="#PRESENTATION ET CONTACT">PRESENTATION ET CONTACT</a></li>
+            <li><a href="#DOMAINE DE COMPETENCES">DOMAINE DE COMPETENCES</a></li>
+            <li><a href="#EXPERIENCES PROFESSIONNELLES">EXPERIENCES PROFESSIONNELLES</a></li>
+            <li><a href="#FORMATIONS">FORMATION</a></li>
+            <li><a href="#CONNAISSANCES">CONNAISSANCES</a></li>
+            <li><a href="#LOISIRS">LOISIRS</a></li>   
+
+        
+        </nav>
+    </head>
+
+<h3><u><div id="PRESENTATION">PRESENTATION</div></u></h3>
+<ul>
+<li>Née le 07 novembre 1979 à Montpellier</li>
+<li>père d'une petite fille de 08 ans</li>
+<li>permis de conduire néant</li>
+<address>
+  <a href="mailto:loupjuste01@gmail.com">loupjuste01@gmail.com</a><br>
+  <a href="tel:0665656272">0665656272</a>
+</address>
+  </ul> 
+
+
+<h3><u><div id="DOMAINE DE COMPETENCES">DOMAINE DE COMPETENCES</div></h3></u>
+<ul>
+<details><li>Agent de sécurité : Lecture de fiche technique</li>
+<li>Utilisation d'outils bureautiques (traitement de texte, tableur..)</li>
+<li>Utilisation d'outils de radiocommunication</li>
+<li>Techniques de médiation</li>
+<li>Techniques d'autodéfense</li>
+<li>Techniques de surveillance/télésurveillance</li></details>
+</ul>
+
+
+<h3><u><div id="EXPERIENCES PROFESSIONNELLES">EXPERIENCES PROFESSIONNELLES</div></u></h3>
+<ul>
+<details><li>Septembre 2009/ décembre 2021: PSI agent en télésurveillance</li>
+<li>Décembre 2008/ Février 2009: L.P.A 	Agent de sécurité</li>
+<li>Juin 2008/ Octobre 2008	:	 			BOSS SECURITE 	Agent de sécurité</li>
+<li>Juillet 2006/ Septembre 2007	:	E.S.I 	Agent de sécurité</li>
+<li>Janvier 2003/ Janvier 2005: GENDARMERIE NATIONALE	 	gendarme adjoint</li>
+<li>Septembre 2002/ Octobre 2002: MADE IN SPORT			vendeur/ caissier</li>
+<li>Décembre 2000/ Septembre 2001: NOUVELLE GALERIE </li>
+<li>Aout/ Septembre 2000	:	 S.P.I  agent de sécurité</li>
+<li>Mai/ Juillet 2000		:	 C.I .N ST MANDRIER		 	communication</li>
+<li>Janvier/ Avril 2000		: 	ECOLE DE MAISTRANCE	 	formation militaire</li></details>
+</ul>
+
+
+<h3><u><div id="FORMATIONS">FORMATIONS</div></u></h3>
+<ul>
+<details><li> 1993 : Brevet des collèges </li>
+<li>1997 : Bac technique électronique</li>
+<li>1998 : BTS 1er année (électronique)</li>
+<li>2000 : Brevet de maistrance</li>
+<li>2003 : Brevet de gendarme adjoint</li>
+<li>2009 : Carte professionnel CAR-013-2014-05-12-20090018088 (valide jusqu'en 2023)</li>
+<li>2022 : formation informatique à la plateforme</li></details>
+</ul>
+
+
+<h3><u><div id="CONNAISSANCES">CONNAISSANCES</div></u></h3>
+<ul>
+<li>Logiciel :  DOS, WORD, EXEL, UNIX</li>
+</ul>
+
+<h3><u><div id="LOISIRS">LOISIRS</div></u></h3>
+<ul>
+<li>Jeu de rôle, Sport</li>
+</ul>
+</body> 
+</html>  
